@@ -70,6 +70,7 @@ class Blockchain {
      * that this method is a private method. 
      */
     _addBlock(block) {
+        this.validateChain()
         let self = this;
         return new Promise(async (resolve, reject) => {
             try {
