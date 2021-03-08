@@ -3,6 +3,7 @@ Truffle v5.1.66 (core: 5.1.66)
 Solidity v0.5.16 (solc-js)
 Node v14.8.0
 Web3.js v1.2.9
+OpenZeppelin v2.1.2
 ## ERC-721 Token Name
 StarToken
 ## ERC-721 Token Symbol
